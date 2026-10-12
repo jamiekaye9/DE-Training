@@ -1,0 +1,6 @@
+shop_id,shop_name,city,region,opened_date,phone
+1,Brightside Leeds,Leeds,North,2015-03-14,01131234567
+2,Brightside Manchester,Manchester,North,2016-07-01,01619876543
+3,Brightside Bristol,Bristol,South West,2018-11-23,01175550123
+4,Brightside London Bridge,London,South East,2019-05-10,02079460000
+5,Brightside Online,,Online,2017-01-09,

@@ -1,0 +1,3 @@
+order_id,order_date,shop_id,customer_id,first_name,last_name,email,product_id,product_name,quantity,unit_price,paid,discount_code
+10452,2026-09-13,1,2087,Priya,Shah,priya.shah@example.com,301,Commuter Helmet,1,89.99,TRUE,
+10452,2026-09-13,1,2087,Priya,Shah,priya.shah@example.com,412,LED Light Set,1,30.51,TRUE,

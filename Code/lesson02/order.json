@@ -1,0 +1,17 @@
+{
+  "order_id": 10452,
+  "order_date": "2026-09-13",
+  "shop_id": 1,
+  "customer": {
+    "customer_id": 2087,
+    "first_name": "Priya",
+    "last_name": "Shah",
+    "email": "priya.shah@example.com"
+  },
+  "items": [
+    {"product_id": 301, "product_name": "Commuter Helmet", "quantity": 1, "unit_price": 89.99},
+    {"product_id": 412, "product_name": "LED Light Set", "quantity": 1, "unit_price": 30.51}
+  ],
+  "paid": true,
+  "discount_code": null
+}

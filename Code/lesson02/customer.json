@@ -1,0 +1,13 @@
+{
+  "customer_id": 2087,
+  "first_name": "Priya",
+  "last_name": "Shah",
+  "email": "priya.shah@example.com",
+  "newsletter": true,
+  "phone": null,
+  "address": {
+    "line_1": "22 Park Row",
+    "city": "Leeds",
+    "postcode": "LS1 5HD"
+  }
+}

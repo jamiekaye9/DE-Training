@@ -1,0 +1,5 @@
+product_id,product_name,category,price,in_stock
+301,Commuter Helmet,Accessories,89.99,TRUE
+412,LED Light Set,Accessories,30.51,TRUE
+105,Trailblazer Mountain Bike,Bikes,749.00,FALSE
+220,Puncture Repair Kit,Parts,6.50,TRUE
